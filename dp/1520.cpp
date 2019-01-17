@@ -1,8 +1,4 @@
 //https://www.acmicpc.net/problem/1520
-/*
-dp를 0으로 초기화 할 시 문제점
-중간에 멈추는 경우 dp 값이 0이 되어야 하는데, 이러면 초기값이랑 구분이 안감
--> 다시계산하므로 시간초과 발생*/
 #include <vector>
 #include <climits>
 #include <iostream>

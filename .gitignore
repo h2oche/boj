@@ -1,2 +1,4 @@
 */*.out
-*/input.txt
+*input.txt
+.vscode/*
+main*

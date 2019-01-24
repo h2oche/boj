@@ -1,4 +1,5 @@
 */*.out
 *input.txt
+output.txt
 .vscode/*
 main*

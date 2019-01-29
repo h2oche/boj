@@ -41,3 +41,5 @@
 		- chomsky normal form
 		- cyk algorithm
 	- [huffman encoding](http://egloos.zum.com/cliffet/v/1184845)
+
+[로드맵](https://blog.naver.com/wnsgh224/220897329629)

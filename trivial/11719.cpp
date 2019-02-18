@@ -1,9 +1,7 @@
-#include <iostream>
-using namespace std;
+#include <cstdio>
 int main(void) {
-  while(!cin.eof()) {
-    char c = cin.get();
-    cout << c;
-  }
+  char buf;
+  while(~scanf("%c", &buf))
+    printf("%c", buf);
   return 0;
 }
